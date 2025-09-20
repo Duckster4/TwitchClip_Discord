@@ -3,7 +3,8 @@
         {
             "twitch_id": 0,
             "discord_webhook_url": "",
-            "twitch_oauth_token": ""
+            "twitch_oauth_token": "",
+            "twitch_client_id":""
         }
     ]
 }

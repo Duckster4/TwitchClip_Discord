@@ -13,4 +13,4 @@ To initialize:
 
 Also put your application id in the CLIENT_ID variable of the .env, or change the get_clips to use your client_id
 
-Each time you run the script, the clips get send to your webhook. Clips that have been send already, won't be send again
+Each time you run the get_clips.py script, the clips get send to your webhook. Clips that have been send already, won't be send again

@@ -1,0 +1,9 @@
+{
+    "broadcasters": [
+        {
+            "twitch_id": 0,
+            "discord_webhook_url": "",
+            "twitch_oauth_token": ""
+        }
+    ]
+}
